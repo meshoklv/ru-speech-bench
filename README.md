@@ -68,7 +68,7 @@ There is no human-labelled reference in this repo, so the quality column is **di
 | Engine | Runs on | Speed | Quality | License |
 |---|---|---|---|---|
 | [T-one](docs/engines/t-one.md) | CPU, 1 thread | RTF 0.31 offline, streaming 300 ms chunks in ~100-123 ms | disagreement 20-22 % clean (vendor WER 19.4 % with LM); no Latin letters or digits in output | Apache-2.0, yes |
-| [GigaAM-v3](docs/engines/gigaam-v3.md) (via [sherpa-onnx](docs/engines/sherpa-onnx.md)) | CPU, 4 threads | median 12.8 s per 7-130 s file under load | closest-to-consensus 9.4 % (highest of 8); vendor WER 8.4 % | MIT, yes |
+| [GigaAM-v3](docs/engines/gigaam-v3.md) (via [sherpa-onnx](docs/engines/sherpa-onnx.md)) | CPU, 4 threads | median 12.8 s per 7-130 s file under load | distance to consensus 9.4 % (largest of 8, not WER); vendor WER 8.4 % | MIT, yes |
 | [Gemini models with audio](docs/engines/cloud-stt-gemini.md) via aggregator | cloud | flash 12-17 s, pro 44-61 s per file | 7.0-8.6 % distance to consensus over 7 clips | hosted: unverified |
 
 Full cloud-vs-local table: [stt/cloud-compare/SUMMARY.md](stt/cloud-compare/SUMMARY.md).
