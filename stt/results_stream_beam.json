@@ -1,0 +1,68 @@
+{
+  "a53-phone8k": {
+    "audio_s": 53.0,
+    "proc_s": 17.85,
+    "rtf": 0.337,
+    "speedup": 2.97,
+    "chunks": 179,
+    "mean_ms": 99.6,
+    "p50_ms": 98.6,
+    "p95_ms": 104.5,
+    "p99_ms": 119.8,
+    "max_ms": 147.2,
+    "over300ms_pct": 0.0,
+    "first_phrase": {
+      "wall_s": 1.41,
+      "lag_s": 0.93,
+      "text_chars": 27,
+      "text_note": "transcript removed (private audio)"
+    },
+    "lag_mean_s": 1.05,
+    "lag_max_s": 1.17,
+    "peak_rss_mb": 5170
+  },
+  "b79-phone8k": {
+    "audio_s": 78.8,
+    "proc_s": 26.29,
+    "rtf": 0.334,
+    "speedup": 3.0,
+    "chunks": 265,
+    "mean_ms": 99.1,
+    "p50_ms": 97.0,
+    "p95_ms": 108.3,
+    "p99_ms": 148.9,
+    "max_ms": 203.0,
+    "over300ms_pct": 0.0,
+    "first_phrase": {
+      "wall_s": 2.08,
+      "lag_s": 0.93,
+      "text_chars": 0,
+      "text_note": "transcript removed (private audio)"
+    },
+    "lag_mean_s": 1.08,
+    "lag_max_s": 1.2,
+    "peak_rss_mb": 5171
+  },
+  "c193-phone8k": {
+    "audio_s": 193.4,
+    "proc_s": 63.88,
+    "rtf": 0.33,
+    "speedup": 3.03,
+    "chunks": 647,
+    "mean_ms": 98.6,
+    "p50_ms": 94.5,
+    "p95_ms": 115.1,
+    "p99_ms": 207.5,
+    "max_ms": 301.7,
+    "over300ms_pct": 0.2,
+    "first_phrase": {
+      "wall_s": 0.88,
+      "lag_s": 1.02,
+      "text_chars": 7,
+      "text_note": "transcript removed (private audio)"
+    },
+    "lag_mean_s": 1.09,
+    "lag_max_s": 1.2,
+    "peak_rss_mb": 5172
+  }
+}

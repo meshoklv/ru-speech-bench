@@ -1,0 +1,86 @@
+{
+  "load_s": 7.02,
+  "peak_rss_mb": 600,
+  "runs": {
+    "a53-16k": {
+      "audio_s": 52.99,
+      "proc_s": 13.06,
+      "rtf": 0.2464,
+      "speedup": 4.1,
+      "n_phrases": 16,
+      "chars": 429,
+      "text_chars": 429,
+      "text_note": "transcript removed (private audio)"
+    },
+    "a53-phone8k": {
+      "audio_s": 52.99,
+      "proc_s": 25.63,
+      "rtf": 0.4836,
+      "speedup": 2.1,
+      "n_phrases": 18,
+      "chars": 429,
+      "text_chars": 429,
+      "text_note": "transcript removed (private audio)"
+    },
+    "b79-16k": {
+      "audio_s": 78.75,
+      "proc_s": 43.21,
+      "rtf": 0.5487,
+      "speedup": 1.8,
+      "n_phrases": 23,
+      "chars": 584,
+      "text_chars": 584,
+      "text_note": "transcript removed (private audio)"
+    },
+    "b79-phone8k": {
+      "audio_s": 78.75,
+      "proc_s": 29.05,
+      "rtf": 0.3689,
+      "speedup": 2.7,
+      "n_phrases": 24,
+      "chars": 592,
+      "text_chars": 592,
+      "text_note": "transcript removed (private audio)"
+    },
+    "c193-16k": {
+      "audio_s": 193.37,
+      "proc_s": 65.44,
+      "rtf": 0.3384,
+      "speedup": 3.0,
+      "n_phrases": 57,
+      "chars": 1876,
+      "text_chars": 1876,
+      "text_note": "transcript removed (private audio)"
+    },
+    "c193-phone8k": {
+      "audio_s": 193.37,
+      "proc_s": 66.98,
+      "rtf": 0.3464,
+      "speedup": 2.9,
+      "n_phrases": 59,
+      "chars": 1893,
+      "text_chars": 1893,
+      "text_note": "transcript removed (private audio)"
+    },
+    "d285-16k": {
+      "audio_s": 284.59,
+      "proc_s": 97.01,
+      "rtf": 0.3409,
+      "speedup": 2.9,
+      "n_phrases": 83,
+      "chars": 2182,
+      "text_chars": 2182,
+      "text_note": "transcript removed (private audio)"
+    },
+    "d285-phone8k": {
+      "audio_s": 284.59,
+      "proc_s": 128.7,
+      "rtf": 0.4522,
+      "speedup": 2.2,
+      "n_phrases": 84,
+      "chars": 2122,
+      "text_chars": 2122,
+      "text_note": "transcript removed (private audio)"
+    }
+  }
+}

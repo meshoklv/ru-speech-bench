@@ -1,0 +1,1 @@
+{"name": "ru-speech-bench", "description": "Hands-on benchmark of 21 Russian TTS, STT and VAD engines: real numbers with hardware, scripts, license audit.", "homepage": "", "topics": ["benchmark", "tts", "stt", "speech-recognition", "text-to-speech", "russian", "voice-activity-detection", "piper", "kokoro", "gigaam", "whisper-alternatives"]}

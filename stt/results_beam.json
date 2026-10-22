@@ -1,0 +1,101 @@
+{
+  "peak_rss_mb": 5173,
+  "runs": {
+    "a53-16k": {
+      "audio_s": 52.99,
+      "proc_s": 16.31,
+      "cpu_s": 16.44,
+      "rtf": 0.3077,
+      "speedup": 3.25,
+      "cpu_rtf": 0.3101,
+      "n_phrases": 16,
+      "chars": 421,
+      "text_chars": 421,
+      "text_note": "transcript removed (private audio)"
+    },
+    "a53-phone8k": {
+      "audio_s": 52.99,
+      "proc_s": 16.49,
+      "cpu_s": 16.53,
+      "rtf": 0.3112,
+      "speedup": 3.21,
+      "cpu_rtf": 0.3119,
+      "n_phrases": 18,
+      "chars": 426,
+      "text_chars": 426,
+      "text_note": "transcript removed (private audio)"
+    },
+    "b79-16k": {
+      "audio_s": 78.75,
+      "proc_s": 25.74,
+      "cpu_s": 25.74,
+      "rtf": 0.3269,
+      "speedup": 3.06,
+      "cpu_rtf": 0.3268,
+      "n_phrases": 23,
+      "chars": 549,
+      "text_chars": 549,
+      "text_note": "transcript removed (private audio)"
+    },
+    "b79-phone8k": {
+      "audio_s": 78.75,
+      "proc_s": 25.47,
+      "cpu_s": 25.5,
+      "rtf": 0.3234,
+      "speedup": 3.09,
+      "cpu_rtf": 0.3238,
+      "n_phrases": 24,
+      "chars": 548,
+      "text_chars": 548,
+      "text_note": "transcript removed (private audio)"
+    },
+    "c193-16k": {
+      "audio_s": 193.37,
+      "proc_s": 62.11,
+      "cpu_s": 62.11,
+      "rtf": 0.3212,
+      "speedup": 3.11,
+      "cpu_rtf": 0.3212,
+      "n_phrases": 57,
+      "chars": 1799,
+      "text_chars": 1799,
+      "text_note": "transcript removed (private audio)"
+    },
+    "c193-phone8k": {
+      "audio_s": 193.37,
+      "proc_s": 61.47,
+      "cpu_s": 61.44,
+      "rtf": 0.3179,
+      "speedup": 3.15,
+      "cpu_rtf": 0.3177,
+      "n_phrases": 59,
+      "chars": 1819,
+      "text_chars": 1819,
+      "text_note": "transcript removed (private audio)"
+    },
+    "d285-16k": {
+      "audio_s": 284.59,
+      "proc_s": 91.99,
+      "cpu_s": 91.95,
+      "rtf": 0.3232,
+      "speedup": 3.09,
+      "cpu_rtf": 0.3231,
+      "n_phrases": 83,
+      "chars": 2088,
+      "text_chars": 2088,
+      "text_note": "transcript removed (private audio)"
+    },
+    "d285-phone8k": {
+      "audio_s": 284.59,
+      "proc_s": 92.07,
+      "cpu_s": 92.01,
+      "rtf": 0.3235,
+      "speedup": 3.09,
+      "cpu_rtf": 0.3233,
+      "n_phrases": 84,
+      "chars": 1995,
+      "text_chars": 1995,
+      "text_note": "transcript removed (private audio)"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "1": {
+    "wall_s": 17.12,
+    "audio_s": 53.0,
+    "slowest_line_s": 17.12,
+    "worst_p95_ms": 110.1,
+    "worst_over300_pct": 0.0,
+    "rss_mb": 5178,
+    "keeps_realtime": true
+  },
+  "2": {
+    "wall_s": 17.98,
+    "audio_s": 53.0,
+    "slowest_line_s": 17.98,
+    "worst_p95_ms": 108.8,
+    "worst_over300_pct": 0.0,
+    "rss_mb": 5183,
+    "keeps_realtime": true
+  },
+  "4": {
+    "wall_s": 17.57,
+    "audio_s": 53.0,
+    "slowest_line_s": 17.56,
+    "worst_p95_ms": 110.3,
+    "worst_over300_pct": 0.0,
+    "rss_mb": 5193,
+    "keeps_realtime": true
+  }
+}

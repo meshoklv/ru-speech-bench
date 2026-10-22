@@ -1,0 +1,146 @@
+{
+  "20": {
+    "a53-phone8k": {
+      "lag_mean": 1.05,
+      "lag_max": 1.17,
+      "phrases": 18,
+      "wer": 0.2,
+      "chars": 426
+    },
+    "b79-phone8k": {
+      "lag_mean": 1.08,
+      "lag_max": 1.2,
+      "phrases": 24,
+      "wer": 0.415,
+      "chars": 548
+    }
+  },
+  "16": {
+    "a53-phone8k": {
+      "lag_mean": 0.96,
+      "lag_max": 1.08,
+      "phrases": 22,
+      "wer": 0.2,
+      "chars": 426
+    },
+    "b79-phone8k": {
+      "lag_mean": 0.92,
+      "lag_max": 1.08,
+      "phrases": 27,
+      "wer": 0.415,
+      "chars": 550
+    }
+  },
+  "14": {
+    "a53-phone8k": {
+      "lag_mean": 0.89,
+      "lag_max": 1.02,
+      "phrases": 24,
+      "wer": 0.2,
+      "chars": 427
+    },
+    "b79-phone8k": {
+      "lag_mean": 0.88,
+      "lag_max": 1.02,
+      "phrases": 30,
+      "wer": 0.423,
+      "chars": 554
+    }
+  },
+  "12": {
+    "a53-phone8k": {
+      "lag_mean": 0.82,
+      "lag_max": 0.96,
+      "phrases": 28,
+      "wer": 0.2,
+      "chars": 428
+    },
+    "b79-phone8k": {
+      "lag_mean": 0.82,
+      "lag_max": 0.96,
+      "phrases": 33,
+      "wer": 0.423,
+      "chars": 555
+    }
+  },
+  "10": {
+    "a53-phone8k": {
+      "lag_mean": 0.76,
+      "lag_max": 0.9,
+      "phrases": 32,
+      "wer": 0.2,
+      "chars": 428
+    },
+    "b79-phone8k": {
+      "lag_mean": 0.78,
+      "lag_max": 0.9,
+      "phrases": 43,
+      "wer": 0.415,
+      "chars": 562
+    }
+  },
+  "8": {
+    "a53-phone8k": {
+      "lag_mean": 0.72,
+      "lag_max": 0.84,
+      "phrases": 38,
+      "wer": 0.19,
+      "chars": 432
+    },
+    "b79-phone8k": {
+      "lag_mean": 0.72,
+      "lag_max": 0.84,
+      "phrases": 45,
+      "wer": 0.415,
+      "chars": 563
+    }
+  },
+  "6": {
+    "a53-phone8k": {
+      "lag_mean": 0.65,
+      "lag_max": 0.78,
+      "phrases": 49,
+      "wer": 0.19,
+      "chars": 435
+    },
+    "b79-phone8k": {
+      "lag_mean": 0.64,
+      "lag_max": 0.78,
+      "phrases": 57,
+      "wer": 0.423,
+      "chars": 569
+    }
+  },
+  "4": {
+    "a53-phone8k": {
+      "lag_mean": 0.58,
+      "lag_max": 0.72,
+      "phrases": 64,
+      "wer": 0.21,
+      "chars": 436
+    },
+    "b79-phone8k": {
+      "lag_mean": 0.58,
+      "lag_max": 0.72,
+      "phrases": 88,
+      "wer": 0.415,
+      "chars": 583
+    }
+  },
+  "2": {
+    "a53-phone8k": {
+      "lag_mean": 0.52,
+      "lag_max": 0.66,
+      "phrases": 108,
+      "wer": 0.46,
+      "chars": 483
+    },
+    "b79-phone8k": {
+      "lag_mean": 0.51,
+      "lag_max": 0.66,
+      "phrases": 150,
+      "wer": 0.646,
+      "chars": 650
+    }
+  }
+}

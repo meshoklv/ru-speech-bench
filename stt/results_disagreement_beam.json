@@ -1,0 +1,26 @@
+{
+  "a53-16k": {
+    "greedy": 0.245,
+    "beam": 0.225,
+    "abs_gain": 0.02,
+    "rel_gain": 0.08
+  },
+  "a53-phone8k": {
+    "greedy": 0.22,
+    "beam": 0.2,
+    "abs_gain": 0.02,
+    "rel_gain": 0.091
+  },
+  "b79-16k": {
+    "greedy": 0.468,
+    "beam": 0.454,
+    "abs_gain": 0.014,
+    "rel_gain": 0.03
+  },
+  "b79-phone8k": {
+    "greedy": 0.438,
+    "beam": 0.415,
+    "abs_gain": 0.023,
+    "rel_gain": 0.053
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "a53-16k": {
+    "audio_s": 52.99,
+    "proc_s": 28.5,
+    "rtf": 0.5378,
+    "speedup": 1.9,
+    "chunks": 179,
+    "chunk_ms_mean": 158.3,
+    "chunk_ms_p50": 139.7,
+    "chunk_ms_p95": 323.7,
+    "chunk_ms_max": 461.7,
+    "first_phrase": {
+      "wall_s": 1.83,
+      "audio_pos_s": 3.9,
+      "phrase_end_s": 2.97,
+      "lag_s": 0.93,
+      "text_chars": 27,
+      "text_note": "transcript removed (private audio)"
+    },
+    "lag_mean_s": 1.05,
+    "lag_max_s": 1.2,
+    "tail_phrases": 1,
+    "peak_rss_mb": 600
+  },
+  "a53-phone8k": {
+    "audio_s": 52.99,
+    "proc_s": 22.46,
+    "rtf": 0.4238,
+    "speedup": 2.4,
+    "chunks": 179,
+    "chunk_ms_mean": 124.9,
+    "chunk_ms_p50": 115.1,
+    "chunk_ms_p95": 222.6,
+    "chunk_ms_max": 313.9,
+    "first_phrase": {
+      "wall_s": 2.0,
+      "audio_pos_s": 3.9,
+      "phrase_end_s": 2.97,
+      "lag_s": 0.93,
+      "text_chars": 27,
+      "text_note": "transcript removed (private audio)"
+    },
+    "lag_mean_s": 1.05,
+    "lag_max_s": 1.17,
+    "tail_phrases": 1,
+    "peak_rss_mb": 600
+  },
+  "b79-16k": {
+    "audio_s": 78.75,
+    "proc_s": 32.1,
+    "rtf": 0.4076,
+    "speedup": 2.5,
+    "chunks": 265,
+    "chunk_ms_mean": 120.7,
+    "chunk_ms_p50": 105.2,
+    "chunk_ms_p95": 244.5,
+    "chunk_ms_max": 494.8,
+    "first_phrase": {
+      "wall_s": 1.71,
+      "audio_pos_s": 5.7,
+      "phrase_end_s": 4.77,
+      "lag_s": 0.93,
+      "text_chars": 6,
+      "text_note": "transcript removed (private audio)"
+    },
+    "lag_mean_s": 1.09,
+    "lag_max_s": 1.2,
+    "tail_phrases": 1,
+    "peak_rss_mb": 600
+  },
+  "b79-phone8k": {
+    "audio_s": 78.75,
+    "proc_s": 25.7,
+    "rtf": 0.3263,
+    "speedup": 3.1,
+    "chunks": 265,
+    "chunk_ms_mean": 96.6,
+    "chunk_ms_p50": 90.9,
+    "chunk_ms_p95": 156.9,
+    "chunk_ms_max": 254.6,
+    "first_phrase": {
+      "wall_s": 1.76,
+      "audio_pos_s": 5.7,
+      "phrase_end_s": 4.77,
+      "lag_s": 0.93,
+      "text_chars": 4,
+      "text_note": "transcript removed (private audio)"
+    },
+    "lag_mean_s": 1.08,
+    "lag_max_s": 1.2,
+    "tail_phrases": 1,
+    "peak_rss_mb": 600
+  }
+}

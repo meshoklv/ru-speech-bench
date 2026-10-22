@@ -1,0 +1,15 @@
+models/
+refs/
+out/
+voices/*/*.onnx
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.onnx
+*.bin
+*.safetensors
+*.pt
+__pycache__/
+.venv*/
+*.log

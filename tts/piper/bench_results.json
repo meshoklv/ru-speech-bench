@@ -1,0 +1,197 @@
+{
+  "results": [
+    {
+      "voice": "denis",
+      "phrase": "privet",
+      "load_s": 4.049,
+      "synth_s": 2.51,
+      "dur_s": 5.735,
+      "audio_per_synth": 2.28
+    },
+    {
+      "voice": "denis",
+      "phrase": "zakaz",
+      "load_s": 4.049,
+      "synth_s": 2.683,
+      "dur_s": 6.362,
+      "audio_per_synth": 2.37
+    },
+    {
+      "voice": "denis",
+      "phrase": "dostavka",
+      "load_s": 4.049,
+      "synth_s": 2.855,
+      "dur_s": 6.084,
+      "audio_per_synth": 2.13
+    },
+    {
+      "voice": "denis",
+      "phrase": "shanghai",
+      "load_s": 4.049,
+      "synth_s": 1.877,
+      "dur_s": 4.377,
+      "audio_per_synth": 2.33
+    },
+    {
+      "voice": "denis",
+      "phrase": "adres",
+      "load_s": 4.049,
+      "synth_s": 2.615,
+      "dur_s": 6.13,
+      "audio_per_synth": 2.34
+    },
+    {
+      "voice": "denis",
+      "phrase": "zamok",
+      "load_s": 4.049,
+      "synth_s": 0.952,
+      "dur_s": 1.985,
+      "audio_per_synth": 2.09
+    },
+    {
+      "voice": "dmitri",
+      "phrase": "privet",
+      "load_s": 5.463,
+      "synth_s": 1.932,
+      "dur_s": 4.725,
+      "audio_per_synth": 2.45
+    },
+    {
+      "voice": "dmitri",
+      "phrase": "zakaz",
+      "load_s": 5.463,
+      "synth_s": 2.558,
+      "dur_s": 5.631,
+      "audio_per_synth": 2.2
+    },
+    {
+      "voice": "dmitri",
+      "phrase": "dostavka",
+      "load_s": 5.463,
+      "synth_s": 2.517,
+      "dur_s": 5.259,
+      "audio_per_synth": 2.09
+    },
+    {
+      "voice": "dmitri",
+      "phrase": "shanghai",
+      "load_s": 5.463,
+      "synth_s": 2.01,
+      "dur_s": 3.773,
+      "audio_per_synth": 1.88
+    },
+    {
+      "voice": "dmitri",
+      "phrase": "adres",
+      "load_s": 5.463,
+      "synth_s": 2.147,
+      "dur_s": 4.83,
+      "audio_per_synth": 2.25
+    },
+    {
+      "voice": "dmitri",
+      "phrase": "zamok",
+      "load_s": 5.463,
+      "synth_s": 1.034,
+      "dur_s": 1.591,
+      "audio_per_synth": 1.54
+    },
+    {
+      "voice": "irina",
+      "phrase": "privet",
+      "load_s": 6.339,
+      "synth_s": 1.654,
+      "dur_s": 6.397,
+      "audio_per_synth": 3.87
+    },
+    {
+      "voice": "irina",
+      "phrase": "zakaz",
+      "load_s": 6.339,
+      "synth_s": 2.034,
+      "dur_s": 7.941,
+      "audio_per_synth": 3.91
+    },
+    {
+      "voice": "irina",
+      "phrase": "dostavka",
+      "load_s": 6.339,
+      "synth_s": 1.897,
+      "dur_s": 7.187,
+      "audio_per_synth": 3.79
+    },
+    {
+      "voice": "irina",
+      "phrase": "shanghai",
+      "load_s": 6.339,
+      "synth_s": 1.084,
+      "dur_s": 4.992,
+      "audio_per_synth": 4.6
+    },
+    {
+      "voice": "irina",
+      "phrase": "adres",
+      "load_s": 6.339,
+      "synth_s": 1.579,
+      "dur_s": 7.837,
+      "audio_per_synth": 4.96
+    },
+    {
+      "voice": "irina",
+      "phrase": "zamok",
+      "load_s": 6.339,
+      "synth_s": 0.468,
+      "dur_s": 2.02,
+      "audio_per_synth": 4.32
+    },
+    {
+      "voice": "ruslan",
+      "phrase": "privet",
+      "load_s": 3.262,
+      "synth_s": 1.346,
+      "dur_s": 4.841,
+      "audio_per_synth": 3.6
+    },
+    {
+      "voice": "ruslan",
+      "phrase": "zakaz",
+      "load_s": 3.262,
+      "synth_s": 1.985,
+      "dur_s": 5.921,
+      "audio_per_synth": 2.98
+    },
+    {
+      "voice": "ruslan",
+      "phrase": "dostavka",
+      "load_s": 3.262,
+      "synth_s": 1.84,
+      "dur_s": 5.968,
+      "audio_per_synth": 3.24
+    },
+    {
+      "voice": "ruslan",
+      "phrase": "shanghai",
+      "load_s": 3.262,
+      "synth_s": 1.363,
+      "dur_s": 3.982,
+      "audio_per_synth": 2.92
+    },
+    {
+      "voice": "ruslan",
+      "phrase": "adres",
+      "load_s": 3.262,
+      "synth_s": 2.107,
+      "dur_s": 5.619,
+      "audio_per_synth": 2.67
+    },
+    {
+      "voice": "ruslan",
+      "phrase": "zamok",
+      "load_s": 3.262,
+      "synth_s": 1.298,
+      "dur_s": 2.125,
+      "audio_per_synth": 1.64
+    }
+  ],
+  "peak_rss_mb": 443.81640625
+}
